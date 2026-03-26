@@ -1,1 +1,128 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJTb3JheWEgR0Ig4oCUIFJPTSBidWlsZGVyIChubyBleHRlcm5hbCBkZXBlbmRlbmNpZXMpClByb2R1Y2VzIGEgdmFsaWQgMzJLQiBHYW1lIEJveSBST00gd2l0aCBtaW5pbWFsIGluaXQgY29kZSBhbmQgU29yYXlhIHNwcml0ZS4KIiIiCmltcG9ydCBzdHJ1Y3QsIGJhc2U2NAoKUk9NX1NJWkUgPSAzMjc2OApyb20gPSBieXRlYXJyYXkoWzB4RkZdICogUk9NX1NJWkUpCgojIOKUgOKUgOKUgCBOaW50ZW5kbyBsb2dvICgkMDEwNOKAkyQwMTMzLCA0OCBieXRlcykg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACk5JTlRFTkRPX0xPR08gPSBieXRlcyhbCiAgICAweENFLCAweEVELCAweDY2LCAweDY2LCAweENDLCAweDBELCAweDAwLCAweDBCLAogICAgMHgwMywgMHg3MywgMHgwMCwgMHg4MywgMHgwMCwgMHgwQywgMHgwMCwgMHgwRCwKICAgIDB4MDAsIDB4MDgsIDB4MTEsIDB4MUYsIDB4ODgsIDB4ODksIDB4MDAsIDB4MEUsCiAgICAweERDLCAweENDLCAweDZFLCAweEU2LCAweERELCAweERELCAweEQ5LCAweDk5LAogICAgMHhCQiwgMHhCQiwgMHg2NywgMHg2MywgMHg2RSwgMHgwRSwgMHhFQywgMHhDQywKICAgIDB4REQsIDB4REMsIDB4OTksIDB4OUYsIDB4QkIsIDB4QjksIDB4MzMsIDB4M0UsCl0pCmFzc2VydCBsZW4oTklOVEVORE9fTE9HTykgPT0gNDgKcm9tWzB4MDEwNDoweDAxMzRdID0gTklOVEVORE9fTE9HTwoKIyDilIDilIDilIAgSGVhZGVyICgkMDEzNOKAkyQwMTRDKSDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKdGl0bGUgPSBiJ1NPUkFZQSBHQicKcm9tWzB4MDEzNDoweDAxMzQgKyBsZW4odGl0bGUpXSA9IHRpdGxlCnJvbVsweDAxNDNdID0gMHgwMCAgICMgQ0dCIGZsYWc6IERNRyBvbmx5CnJvbVsweDAxNDZdID0gMHgwMCAgICMgU0dCIGZsYWc6IG5vbmUKcm9tWzB4MDE0N10gPSAweDAwICAgIyBDYXJ0cmlkZ2UgdHlwZTogUk9NIG9ubHksIG5vIE1CQwpyb21bMHgwMTQ4XSA9IDB4MDAgICAjIFJPTSBzaXplOiAzMktCICgyIGJhbmtzKQpyb21bMHgwMTQ5XSA9IDB4MDAgICAjIFJBTSBzaXplOiBub25lCnJvbVsweDAxNEFdID0gMHgwMSAgICMgRGVzdGluYXRpb246IG5vbi1KYXBhbmVzZQpyb21bMHgwMTRCXSA9IDB4MzMgICAjIE9sZCBsaWNlbnNlZTogdXNlIG5ldyBsaWNlbnNlZQpyb21bMHgwMTRDXSA9IDB4MDAgICAjIE1hc2sgUk9NIHZlcnNpb246IDEuMAoKIyDilIDilIDilIAgRW50cnkgcG9pbnQgKCQwMTAw4oCTJDAxMDMpOiBOT1A7IEpQICQwMTUwIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApyb21bMHgwMTAwXSA9IDB4MDAgICAgICAgICMgTk9QCnJvbVsweDAxMDFdID0gMHhDMyAgICAgICAgIyBKUCBubgpyb21bMHgwMTAyXSA9IDB4NTAgICAgICAgICMgbG93ICBieXRlIOKGkiAkMDE1MApyb21bMHgwMTAzXSA9IDB4MDEgICAgICAgICMgaGlnaCBieXRlIOKGkiAkMDE1MAoKIyDilIDilIDilIAgSW5pdCBjb2RlIGF0ICQwMTUwIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApjb2RlID0gYnl0ZXMoWwogICAgMHhGMywgICAgICAgICAgICAgICMgREkKICAgIDB4MzEsIDB4RkUsIDB4RkYsICAjIExEIFNQLCAkRkZGRQogICAgMHgzRSwgMHhFNCwgICAgICAgICMgTEQgQSwgJEU0ICAoQkdQOiAxMT1ibGFjayAxMD1kYXJrIDAxPWxpZ2h0IDAwPXdoaXRlKQogICAgMHhFQSwgMHg0NywgMHhGRiwgICMgTEQgKCRGRjQ3KSwgQSAg4oCUIHdyaXRlIEJHUAogICAgMHgzRSwgMHg5MSwgICAgICAgICMgTEQgQSwgJDkxICAoTENEQzogTENEIG9uLCB0aWxlICQ4MDAwLCBtYXAgJDk4MDAsIEJHIG9uKQogICAgMHhFQSwgMHg0MCwgMHhGRiwgICMgTEQgKCRGRjQwKSwgQSAg4oCUIHdyaXRlIExDREMKICAgIDB4NzYsICAgICAgICAgICAgICAjIEhBTFQKICAgIDB4MTgsIDB4RkUsICAgICAgICAjIEpSICQtMiAgKGluZmluaXRlIGxvb3ApCl0pCnJvbVsweDAxNTA6MHgwMTUwICsgbGVuKGNvZGUpXSA9IGNvZGUKCiMg4pSA4pSA4pSAIFNwcml0ZSB0aWxlIGRhdGEgYXQgJDAyMDAgKDJicHAsIDQgdGlsZXMgPSA2NCBieXRlcykg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACiMgUGFsZXR0ZTogVz0wIHRyYW5zcGFyZW50L3doaXRlLCBPPTEgbGlnaHQsIFA9MSBwaW5r4oaSbGlnaHQsIEQ9MiBkYXJrLCBCPTMgYmxhY2sKQ09MT1IgPSB7J1cnOiAwLCAnTyc6IDEsICdQJzogMSwgJ0QnOiAyLCAnQic6IDN9CgpTUFJJVEUgPSBbCiAgICAiV1dXV1dXV1dXV1dXV1dXVyIsICAjIDAgIHRyYW5zcGFyZW50CiAgICAiV1dCQldXV1dXV0JCV1dXVyIsICAjIDEgIGVhciB0aXBzCiAgICAiV0JPT0JXV1dXQk9PQldXVyIsICAjIDIgIGVhcnMKICAgICJXQk9PQldXV1dCT09CV1dXIiwgICMgMyAgZWFycwogICAgIldCQkJCQkJCQkJCQkJXV1ciLCAgIyA0ICBoZWFkIG91dGxpbmUKICAgICJXQk9PT09PT09PT09CV1dXIiwgICMgNSAgZm9yZWhlYWQKICAgICJXQk9PQldXV1dCT09CV1dXIiwgICMgNiAgZXllcwogICAgIldCT09PT09PT09PT0JXV1ciLCAgIyA3CiAgICAiV0JPT09PT09PT09PQldXVyIsICAjIDgKICAgICJXQk9PT09PT1BPT09CV1dXIiwgICMgOSAgcGluayBub3NlIGF0IChjb2w9OCwgcm93PTkpCiAgICAiV0JPT09PT09PT09PQldXVyIsICAjIDEwCiAgICAiV0JCT09PT09PQkJEV1dXVyIsICAjIDExIGNoaW4gKyBkYXJrIHNoYWRvdwogICAgIldXQk9PT09PT0JXV1dXV1ciLCAgIyAxMiBib2R5CiAgICAiV1dXQk9PT09CV1dXV1dXVyIsICAjIDEzIGJvZHkgdGFwZXIKICAgICJXV1dXQkJCQkJXV1dXV1dXIiwgICMgMTQgZmVldAogICAgIldXV1dXV1dXV1dXV1dXV1ciLCAgIyAxNSB0cmFuc3BhcmVudApdCgojIFZlcmlmeQpmb3IgaSwgcm93IGluIGVudW1lcmF0ZShTUFJJVEUpOgogICAgYXNzZXJ0IGxlbihyb3cpID09IDE2LCBmIlJvdyB7aX06IHtsZW4ocm93KX0gY2hhcnMiCgpkZWYgcGl4ZWxzX3RvXzJicHBfdGlsZXMocHgpOgogICAgIiIiMTbDlzE2IHBpeGVsIGdyaWQg4oaSIDQgR0IgMmJwcCB0aWxlcyAoNjQgYnl0ZXMpLCByb3ctbWFqb3Igb3JkZXIuIiIiCiAgICB0aWxlcyA9IGJ5dGVhcnJheSgpCiAgICBmb3IgdGlsZV9yb3cgaW4gcmFuZ2UoMik6ICAgICAgICMgMD10b3AgaGFsZiwgMT1ib3R0b20gaGFsZgogICAgICAgIGZvciB0aWxlX2NvbCBpbiByYW5nZSgyKTogICAjIDA9bGVmdCBoYWxmLCAxPXJpZ2h0IGhhbGYKICAgICAgICAgICAgZm9yIHJvdyBpbiByYW5nZSg4KToKICAgICAgICAgICAgICAgIHkgPSB0aWxlX3JvdyAqIDggKyByb3cKICAgICAgICAgICAgICAgIGxvID0gaGkgPSAwCiAgICAgICAgICAgICAgICBmb3IgY29sIGluIHJhbmdlKDgpOgogICAgICAgICAgICAgICAgICAgIHggPSB0aWxlX2NvbCAqIDggKyBjb2wKICAgICAgICAgICAgICAgICAgICB2ID0gQ09MT1JbcHhbeV1beF1dCiAgICAgICAgICAgICAgICAgICAgYml0ID0gNyAtIGNvbCAgIyBNU0IgPSBsZWZ0bW9zdCBwaXhlbAogICAgICAgICAgICAgICAgICAgIGxvIHw9ICh2ICYgMSkgICAgICAgPDwgYml0CiAgICAgICAgICAgICAgICAgICAgaGkgfD0gKCh2ID4+IDEpICYgMSkgPDwgYml0CiAgICAgICAgICAgICAgICB0aWxlcy5hcHBlbmQobG8pCiAgICAgICAgICAgICAgICB0aWxlcy5hcHBlbmQoaGkpCiAgICBhc3NlcnQgbGVuKHRpbGVzKSA9PSA2NAogICAgcmV0dXJuIHRpbGVzCgpyb21bMHgwMjAwOjB4MDI0MF0gPSBwaXhlbHNfdG9fMmJwcF90aWxlcyhTUFJJVEUpCgojIOKUgOKUgOKUgCBIZWFkZXIgY2hlY2tzdW0gKCQwMTREKSDigJQgc3VtIG92ZXIgJDAxMzQuLiQwMTRDIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAoKY2hrID0gMApmb3IgYWRkciBpbiByYW5nZSgweDAxMzQsIDB4MDE0RCk6CiAgICBjaGsgPSAoY2hrIC0gcm9tW2FkZHJdIC0gMSkgJiAweEZGCnJvbVsweDAxNERdID0gY2hrCgojIOKUgOKUgOKUgCBHbG9iYWwgY2hlY2tzdW0gKCQwMTRF4oCTJDAxNEYsIGJpZy1lbmRpYW4sIG5vdCB2ZXJpZmllZCBieSBoYXJkd2FyZSkg4pSA4pSA4pSA4pSA4pSACmdjaGsgPSAoc3VtKHJvbSkgLSByb21bMHgwMTRFXSAtIHJvbVsweDAxNEZdKSAmIDB4RkZGRgpyb21bMHgwMTRFXSA9IChnY2hrID4+IDgpICYgMHhGRgpyb21bMHgwMTRGXSA9IGdjaGsgJiAweEZGCgojIOKUgOKUgOKUgCBXcml0ZSBvdXRwdXQg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACndpdGggb3BlbignL3RtcC9zb3JheWEuZ2InLCAnd2InKSBhcyBmOgogICAgZi53cml0ZShyb20pCgpiNjQgPSBiYXNlNjQuYjY0ZW5jb2RlKGJ5dGVzKHJvbSkpLmRlY29kZSgpCndpdGggb3BlbignL3RtcC9zb3JheWFfcm9tX2I2NC50eHQnLCAndycpIGFzIGY6CiAgICBmLndyaXRlKGI2NCkKCiMg4pSA4pSA4pSAIFJlcG9ydCDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKcHJpbnQoZiJST006IC90bXAvc29yYXlhLmdiIikKcHJpbnQoZiJTaXplOiB7bGVuKHJvbSl9IGJ5dGVzIikKcHJpbnQoZiJIZWFkZXIgY2hlY2tzdW0gJDAxNEQ6IDB4e3JvbVsweDAxNERdOjAyWH0iKQpwcmludChmIkVudHJ5IHBvaW50OiB7JyAnLmpvaW4oZid7YjowMlh9JyBmb3IgYiBpbiByb21bMHgwMTAwOjB4MDEwNF0pfSIpCnByaW50KGYiVGl0bGU6IHtieXRlcyhyb21bMHgwMTM0OjB4MDEzRl0pIXJ9IikKcHJpbnQoZiJOaW50ZW5kbyBsb2dvICQwMTA0OiB7JyAnLmpvaW4oZid7YjowMlh9JyBmb3IgYiBpbiByb21bMHgwMTA0OjB4MDEwQ10pfSIpCnByaW50KGYiQkFTRTY0X0xFTjoge2xlbihiNjQpfSIpCg==
+#!/usr/bin/env python3
+"""Soraya GB — ROM builder (no external dependencies)
+Produces a valid 32KB Game Boy ROM with minimal init code and Soraya sprite.
+"""
+import struct, base64
+
+ROM_SIZE = 32768
+rom = bytearray([0xFF] * ROM_SIZE)
+
+# ─── Nintendo logo ($0104–$0133, 48 bytes) ───────────────────────────────────
+NINTENDO_LOGO = bytes([
+    0xCE, 0xED, 0x66, 0x66, 0xCC, 0x0D, 0x00, 0x0B,
+    0x03, 0x73, 0x00, 0x83, 0x00, 0x0C, 0x00, 0x0D,
+    0x00, 0x08, 0x11, 0x1F, 0x88, 0x89, 0x00, 0x0E,
+    0xDC, 0xCC, 0x6E, 0xE6, 0xDD, 0xDD, 0xD9, 0x99,
+    0xBB, 0xBB, 0x67, 0x63, 0x6E, 0x0E, 0xEC, 0xCC,
+    0xDD, 0xDC, 0x99, 0x9F, 0xBB, 0xB9, 0x33, 0x3E,
+])
+assert len(NINTENDO_LOGO) == 48
+rom[0x0104:0x0134] = NINTENDO_LOGO
+
+# ─── Header ($0134–$014C) ────────────────────────────────────────────────────
+title = b'SORAYA GB'
+rom[0x0134:0x0134 + len(title)] = title
+rom[0x0143] = 0x00   # CGB flag: DMG only
+rom[0x0146] = 0x00   # SGB flag: none
+rom[0x0147] = 0x00   # Cartridge type: ROM only, no MBC
+rom[0x0148] = 0x00   # ROM size: 32KB (2 banks)
+rom[0x0149] = 0x00   # RAM size: none
+rom[0x014A] = 0x01   # Destination: non-Japanese
+rom[0x014B] = 0x33   # Old licensee: use new licensee
+rom[0x014C] = 0x00   # Mask ROM version: 1.0
+
+# ─── Entry point ($0100–$0103): NOP; JP $0150 ────────────────────────────────
+rom[0x0100] = 0x00        # NOP
+rom[0x0101] = 0xC3        # JP nn
+rom[0x0102] = 0x50        # low  byte → $0150
+rom[0x0103] = 0x01        # high byte → $0150
+
+# ─── Init code at $0150 ──────────────────────────────────────────────────────
+code = bytes([
+    0xF3,              # DI
+    0x31, 0xFE, 0xFF,  # LD SP, $FFFE
+    0x3E, 0xE4,        # LD A, $E4  (BGP: 11=black 10=dark 01=light 00=white)
+    0xEA, 0x47, 0xFF,  # LD ($FF47), A  — write BGP
+    0x3E, 0x91,        # LD A, $91  (LCDC: LCD on, tile $8000, map $9800, BG on)
+    0xEA, 0x40, 0xFF,  # LD ($FF40), A  — write LCDC
+    0x76,              # HALT
+    0x18, 0xFE,        # JR $-2  (infinite loop)
+])
+rom[0x0150:0x0150 + len(code)] = code
+
+# ─── Sprite tile data at $0200 (2bpp, 4 tiles = 64 bytes) ───────────────────
+# Palette: W=0 transparent/white, O=1 light, P=1 pink→light, D=2 dark, B=3 black
+COLOR = {'W': 0, 'O': 1, 'P': 1, 'D': 2, 'B': 3}
+
+SPRITE = [
+    "WWWWWWWWWWWWWWWW",  # 0  transparent
+    "WWBBWWWWWWBBWWWW",  # 1  ear tips
+    "WBOOBWWWWBOOBWWW",  # 2  ears
+    "WBOOBWWWWBOOBWWW",  # 3  ears
+    "WBBBBBBBBBBBBWWW",  # 4  head outline
+    "WBOOOOOOOOOOBWWW",  # 5  forehead
+    "WBOOBWWWWBOOBWWW",  # 6  eyes
+    "WBOOOOOOOOOOBWWW",  # 7
+    "WBOOOOOOOOOOBWWW",  # 8
+    "WBOOOOOOPOOOBWWW",  # 9  pink nose at (col=8, row=9)
+    "WBOOOOOOOOOOBWWW",  # 10
+    "WBBOOOOOOBBDWWWW",  # 11 chin + dark shadow
+    "WWBOOOOOOBWWWWWW",  # 12 body
+    "WWWBOOOOBWWWWWWW",  # 13 body taper
+    "WWWWBBBBBWWWWWWW",  # 14 feet
+    "WWWWWWWWWWWWWWWW",  # 15 transparent
+]
+
+# Verify
+for i, row in enumerate(SPRITE):
+    assert len(row) == 16, f"Row {i}: {len(row)} chars"
+
+def pixels_to_2bpp_tiles(px):
+    """16×16 pixel grid → 4 GB 2bpp tiles (64 bytes), row-major order."""
+    tiles = bytearray()
+    for tile_row in range(2):       # 0=top half, 1=bottom half
+        for tile_col in range(2):   # 0=left half, 1=right half
+            for row in range(8):
+                y = tile_row * 8 + row
+                lo = hi = 0
+                for col in range(8):
+                    x = tile_col * 8 + col
+                    v = COLOR[px[y][x]]
+                    bit = 7 - col  # MSB = leftmost pixel
+                    lo |= (v & 1)       << bit
+                    hi |= ((v >> 1) & 1) << bit
+                tiles.append(lo)
+                tiles.append(hi)
+    assert len(tiles) == 64
+    return tiles
+
+rom[0x0200:0x0240] = pixels_to_2bpp_tiles(SPRITE)
+
+# ─── Header checksum ($014D) — sum over $0134..$014C ─────────────────────────
+
+chk = 0
+for addr in range(0x0134, 0x014D):
+    chk = (chk - rom[addr] - 1) & 0xFF
+rom[0x014D] = chk
+
+# ─── Global checksum ($014E–$014F, big-endian, not verified by hardware) ─────
+gchk = (sum(rom) - rom[0x014E] - rom[0x014F]) & 0xFFFF
+rom[0x014E] = (gchk >> 8) & 0xFF
+rom[0x014F] = gchk & 0xFF
+
+# ─── Write output ────────────────────────────────────────────────────────────
+with open('/tmp/soraya.gb', 'wb') as f:
+    f.write(rom)
+
+b64 = base64.b64encode(bytes(rom)).decode()
+with open('/tmp/soraya_rom_b64.txt', 'w') as f:
+    f.write(b64)
+
+# ─── Report ──────────────────────────────────────────────────────────────────
+print(f"ROM: /tmp/soraya.gb")
+print(f"Size: {len(rom)} bytes")
+print(f"Header checksum $014D: 0x{rom[0x014D]:02X}")
+print(f"Entry point: {' '.join(f'{b:02X}' for b in rom[0x0100:0x0104])}")
+print(f"Title: {bytes(rom[0x0134:0x013F])!r}")
+print(f"Nintendo logo $0104: {' '.join(f'{b:02X}' for b in rom[0x0104:0x010C])}")
+print(f"BASE64_LEN: {len(b64)}")
