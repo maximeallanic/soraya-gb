@@ -1,0 +1,31 @@
+{
+  "_version": "4.1.0",
+  "_release": "1",
+  "name": "Soraya GB",
+  "author": "Maxime Allanic",
+  "notes": "A Game Boy homebrew RPG starring Soraya the cat.",
+  "scenes": [],
+  "backgrounds": [],
+  "spriteSheets": [],
+  "palettes": [],
+  "customEvents": [],
+  "music": [],
+  "sounds": [],
+  "fonts": [],
+  "variables": [],
+  "engineFieldValues": [],
+  "settings": {
+    "startSceneId": "",
+    "playerSpriteSheetId": "",
+    "showCollisions": true,
+    "showConnections": true,
+    "worldScrollX": 0,
+    "worldScrollY": 0,
+    "zoom": 100,
+    "sgbEnabled": false,
+    "customHead": "",
+    "defaultBackgroundPaletteIds": [],
+    "defaultSpritePaletteIds": [],
+    "defaultUIPaletteId": ""
+  }
+}
